@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alden-wong-website/static/css/main.cd3ab085.css",
-    "main.js": "/alden-wong-website/static/js/main.5f22ecec.js",
+    "main.js": "/alden-wong-website/static/js/main.58c6f2dc.js",
     "static/js/453.1cb32fac.chunk.js": "/alden-wong-website/static/js/453.1cb32fac.chunk.js",
     "static/media/taiwan6.JPG": "/alden-wong-website/static/media/taiwan6.111b7f411fed74326e9e.JPG",
     "static/media/china1.JPG": "/alden-wong-website/static/media/china1.c3e2769d191ddfb6ee39.JPG",
@@ -33,11 +33,11 @@
     "static/media/logo.png": "/alden-wong-website/static/media/logo.a7dab152860b746f215e.png",
     "index.html": "/alden-wong-website/index.html",
     "main.cd3ab085.css.map": "/alden-wong-website/static/css/main.cd3ab085.css.map",
-    "main.5f22ecec.js.map": "/alden-wong-website/static/js/main.5f22ecec.js.map",
+    "main.58c6f2dc.js.map": "/alden-wong-website/static/js/main.58c6f2dc.js.map",
     "453.1cb32fac.chunk.js.map": "/alden-wong-website/static/js/453.1cb32fac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd3ab085.css",
-    "static/js/main.5f22ecec.js"
+    "static/js/main.58c6f2dc.js"
   ]
 }
