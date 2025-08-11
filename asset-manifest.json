@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/alden-wong-website/static/css/main.c2e97ae3.css",
+    "main.js": "/alden-wong-website/static/js/main.3b8e1df0.js",
+    "static/js/453.1cb32fac.chunk.js": "/alden-wong-website/static/js/453.1cb32fac.chunk.js",
+    "static/media/taiwan6.JPG": "/alden-wong-website/static/media/taiwan6.111b7f411fed74326e9e.JPG",
+    "static/media/china1.JPG": "/alden-wong-website/static/media/china1.c3e2769d191ddfb6ee39.JPG",
+    "static/media/hawaii1.JPG": "/alden-wong-website/static/media/hawaii1.a081835d3a1adbda1af7.JPG",
+    "static/media/taiwan3.JPG": "/alden-wong-website/static/media/taiwan3.660accbd4b4dfe095e4c.JPG",
+    "static/media/taiwan7.JPG": "/alden-wong-website/static/media/taiwan7.ca0fb1bfe56a91dc2fd2.JPG",
+    "static/media/hawaii2.JPG": "/alden-wong-website/static/media/hawaii2.2254e0b9341f8e8c0cd3.JPG",
+    "static/media/china2.JPG": "/alden-wong-website/static/media/china2.4183e312806f936cd01f.JPG",
+    "static/media/taiwan2.JPG": "/alden-wong-website/static/media/taiwan2.c88a0a0cddbfd3d059fc.JPG",
+    "static/media/cebu1.JPG": "/alden-wong-website/static/media/cebu1.6909f01f696f1fe31e1a.JPG",
+    "static/media/hongkong1.JPG": "/alden-wong-website/static/media/hongkong1.80be65edd04a70f10204.JPG",
+    "static/media/taiwan4.JPG": "/alden-wong-website/static/media/taiwan4.50f6763d4bb45c5e53b9.JPG",
+    "static/media/taiwan5.JPG": "/alden-wong-website/static/media/taiwan5.1b034b19bc32c8b6d32a.JPG",
+    "static/media/cebu2.JPG": "/alden-wong-website/static/media/cebu2.a538a5712dfdfa41d869.JPG",
+    "static/media/taiwan1.JPG": "/alden-wong-website/static/media/taiwan1.4c117154cde89266fca4.JPG",
+    "static/media/cebu3.JPG": "/alden-wong-website/static/media/cebu3.3f0f2b2772060f05659b.JPG",
+    "static/media/hongkong2.JPG": "/alden-wong-website/static/media/hongkong2.07896ff7c10f44570ed9.JPG",
+    "static/media/japan3.JPG": "/alden-wong-website/static/media/japan3.20f480f57595da0a49bd.JPG",
+    "static/media/japan2.jpg": "/alden-wong-website/static/media/japan2.6a546ef83b5d23f65c62.jpg",
+    "static/media/hongkong3.jpg": "/alden-wong-website/static/media/hongkong3.bf28f4043e5e40c0941b.jpg",
+    "static/media/japan1.jpg": "/alden-wong-website/static/media/japan1.9e5ef74eee597c4d16b3.jpg",
+    "static/media/india1.JPG": "/alden-wong-website/static/media/india1.2f439de85f85efbebeba.JPG",
+    "static/media/profile.JPG": "/alden-wong-website/static/media/profile.e781c63577c952d1e707.JPG",
+    "static/media/linkedin_prof.png": "/alden-wong-website/static/media/linkedin_prof.717e9bd5f691320cdf8e.png",
+    "static/media/youtube_prof.png": "/alden-wong-website/static/media/youtube_prof.9663205b440acf36396d.png",
+    "static/media/space.png": "/alden-wong-website/static/media/space.c5b8f780941c9a3631e6.png",
+    "static/media/turtle.jpeg": "/alden-wong-website/static/media/turtle.59003962135e05b1c7cb.jpeg",
+    "static/media/insta_prof.png": "/alden-wong-website/static/media/insta_prof.b64aa6721fe09204134e.png",
+    "static/media/logo.png": "/alden-wong-website/static/media/logo.a7dab152860b746f215e.png",
+    "index.html": "/alden-wong-website/index.html",
+    "main.c2e97ae3.css.map": "/alden-wong-website/static/css/main.c2e97ae3.css.map",
+    "main.3b8e1df0.js.map": "/alden-wong-website/static/js/main.3b8e1df0.js.map",
+    "453.1cb32fac.chunk.js.map": "/alden-wong-website/static/js/453.1cb32fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e97ae3.css",
+    "static/js/main.3b8e1df0.js"
+  ]
+}
