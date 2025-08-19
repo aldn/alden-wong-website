@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alden-wong-website/static/css/main.3bae9688.css",
-    "main.js": "/alden-wong-website/static/js/main.a0ca421f.js",
+    "main.css": "/alden-wong-website/static/css/main.875f71eb.css",
+    "main.js": "/alden-wong-website/static/js/main.916275dd.js",
     "static/js/453.1cb32fac.chunk.js": "/alden-wong-website/static/js/453.1cb32fac.chunk.js",
     "static/media/taiwan6.JPG": "/alden-wong-website/static/media/taiwan6.111b7f411fed74326e9e.JPG",
     "static/media/china1.JPG": "/alden-wong-website/static/media/china1.c3e2769d191ddfb6ee39.JPG",
@@ -29,16 +29,18 @@
     "static/media/youtube_prof.png": "/alden-wong-website/static/media/youtube_prof.9663205b440acf36396d.png",
     "static/media/space.png": "/alden-wong-website/static/media/space.c5b8f780941c9a3631e6.png",
     "static/media/turtle.jpeg": "/alden-wong-website/static/media/turtle.59003962135e05b1c7cb.jpeg",
+    "static/media/star_pairplot.png": "/alden-wong-website/static/media/star_pairplot.bc70142040a931a58ae1.png",
     "static/media/insta_prof.png": "/alden-wong-website/static/media/insta_prof.b64aa6721fe09204134e.png",
     "static/media/stars.jpg": "/alden-wong-website/static/media/stars.6c72ec453ac62ae5ed3f.jpg",
+    "static/media/tree_plot.png": "/alden-wong-website/static/media/tree_plot.4ff3931e300e8842dd7f.png",
     "static/media/logo.png": "/alden-wong-website/static/media/logo.a7dab152860b746f215e.png",
     "index.html": "/alden-wong-website/index.html",
-    "main.3bae9688.css.map": "/alden-wong-website/static/css/main.3bae9688.css.map",
-    "main.a0ca421f.js.map": "/alden-wong-website/static/js/main.a0ca421f.js.map",
+    "main.875f71eb.css.map": "/alden-wong-website/static/css/main.875f71eb.css.map",
+    "main.916275dd.js.map": "/alden-wong-website/static/js/main.916275dd.js.map",
     "453.1cb32fac.chunk.js.map": "/alden-wong-website/static/js/453.1cb32fac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bae9688.css",
-    "static/js/main.a0ca421f.js"
+    "static/css/main.875f71eb.css",
+    "static/js/main.916275dd.js"
   ]
 }
